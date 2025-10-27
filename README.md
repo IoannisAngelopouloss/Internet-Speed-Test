@@ -11,4 +11,5 @@ Python script to measure internet speed (download, upload, ping) using speedtest
 2. Install the required package:
    ```bash
    python -m pip install --user speedtest-cli
+
    
